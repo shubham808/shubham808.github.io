@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <p><h2>SHOGUEN!!</h2></p>
+     <p><h2>Shubham's blog</h2></p>
   header_text_feature_image: img/wallpaper1.png
   footer_text: >
    Powered by github
